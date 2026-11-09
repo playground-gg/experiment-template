@@ -1,0 +1,8 @@
+numpy
+pandas
+pyyaml
+psutil
+matplotlib
+tqdm
+pytest
+# add experiment-specific packages below (pin versions once they work)
